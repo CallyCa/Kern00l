@@ -1,5 +1,4 @@
 # My First Kernel
-=======
 
 #### Build commands ####
 ```
